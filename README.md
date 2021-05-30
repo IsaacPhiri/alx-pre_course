@@ -1,1 +1,2 @@
-*This is my first git ALX project and am making Emphasis* _emphasize_
+*Emphasize* _emphasize_
+**Strong** __Strong__
